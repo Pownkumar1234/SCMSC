@@ -29,3 +29,5 @@ await connectDB();
 app.listen(PORT, () => {
   console.log(`server is running on PORT: ${PORT}`);
 });
+
+// website is in construction
